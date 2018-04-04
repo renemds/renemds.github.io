@@ -1,0 +1,23 @@
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8"/>
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+	<title>Intelecto Comunicação - Layout para Aprovação</title>
+    <style>
+    html, body{
+        height: 100%;
+    }
+    body{
+        background-image: url(layout-site-intelecto.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center top;
+        height: 4406px;
+    }
+    </style>
+</head>
+<body>
+
+ 
+</body>
+</html>
